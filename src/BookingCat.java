@@ -17,6 +17,7 @@ class BookingCat {
                 new Cat("Семён", 30, satiety.nextBoolean()),
                 new Cat("Цезарь", 20, satiety.nextBoolean()),
                 new Cat("Гомер", 35, satiety.nextBoolean()),
+                new Cat("Виталик", 35, satiety.nextBoolean()),
         };
         Plate plate = new Plate(100);
         plate.info();
